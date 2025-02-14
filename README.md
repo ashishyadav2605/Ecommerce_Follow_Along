@@ -61,3 +61,15 @@ The complete user data should be stored securely, ensuring that sensitive inform
 
 During the login process, compare the entered password with the hashed version stored in the database.
 Use bcrypt to safely verify if the entered password matches the stored hash.
+
+**Milestone 7**
+
+1. Create Login Endpoint:
+
+Accept user credentials (email/username and password).
+Retrieve the corresponding user from the database.
+
+2. Validate Password:
+
+Use bcrypt to hash the entered password.
+Compare it with the stored hashed password for authentication.
