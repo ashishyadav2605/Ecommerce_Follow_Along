@@ -61,3 +61,23 @@ The complete user data should be stored securely, ensuring that sensitive inform
 
 During the login process, compare the entered password with the hashed version stored in the database.
 Use bcrypt to safely verify if the entered password matches the stored hash.
+
+
+**Milestone 7**
+1. Create Login Endpoint:
+Accept user credentials (email/username and password).
+Retrieve the corresponding user from the database.
+
+2. Validate Password:
+Use bcrypt to hash the entered password.
+Compare it with the stored hashed password for authentication.
+
+
+**Milestone 8**
+1. Create the Card Component:
+
+Design a reusable card component with props for product details (e.g., name, image, price).
+
+2. Design the Homepage Layout:
+
+Set up a grid layout or flexbox for displaying multiple cards neatly.
