@@ -94,8 +94,13 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 2. This form will take multiple product images images as input
 
+**Milestone 10**
+
+1. Define the structure of product data (e.g., name, description, price, image URL) using Mongoose. -Ensure each field has proper validation (e.g., required fields, correct data types).
+
+2. Build a POST endpoint to receive product data.
+
+3. Validate and save the product details to MongoDB.
 
 Use bcrypt to hash the entered password.
 Compare it with the stored hashed password for authentication.
-
-
