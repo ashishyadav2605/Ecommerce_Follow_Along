@@ -61,14 +61,20 @@ The complete user data should be stored securely, ensuring that sensitive inform
 
 During the login process, compare the entered password with the hashed version stored in the database.
 Use bcrypt to safely verify if the entered password matches the stored hash.
-
+milestone_8
 
 **Milestone 7**
 1. Create Login Endpoint:
+
+**Milestone 7**
+
+1. Create Login Endpoint:
+
 Accept user credentials (email/username and password).
 Retrieve the corresponding user from the database.
 
 2. Validate Password:
+
 Use bcrypt to hash the entered password.
 Compare it with the stored hashed password for authentication.
 
@@ -96,6 +102,10 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 3. Validate and save the product details to MongoDB.
 
+
 **Milestone 11**
 
 1. Write an endpoint that will send all products data to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component.
+
+Use bcrypt to hash the entered password.
+Compare it with the stored hashed password for authentication.
