@@ -107,5 +107,10 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 1. Write an endpoint that will send all products data to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component.
 
+
+**Milestone 12**
+
+1. Write an endpoint that will send all products with user mail to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component
+
 Use bcrypt to hash the entered password.
 Compare it with the stored hashed password for authentication.
