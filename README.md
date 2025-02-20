@@ -99,3 +99,7 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 **Milestone 11**
 
 1. Write an endpoint that will send all products data to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component.
+
+**Milestone 12**
+
+1. Write an endpoint that will send all products with user mail to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component
