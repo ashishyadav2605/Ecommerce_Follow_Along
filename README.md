@@ -110,7 +110,8 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 **Milestone 12**
 
-1. Write an endpoint that will send all products with user mail to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component
+1. Write an endpoint that will send all products with user mail to frontend In frontend write an function to get all the data Display these data dynamically passing to product card component.
 
-Use bcrypt to hash the entered password.
-Compare it with the stored hashed password for authentication.
+**Milestone 13**
+
+1. Write an endpoint that will receive new data and update the existing data inside MondoDB. In frontend we will add an edit button to the product card. When click on edit we will send the data to form and make it auto fill and have option to edit those data and save.
