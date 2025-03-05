@@ -111,3 +111,9 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 **Milestone 14**
 
 1.Write an endpoint that will Delete the data form MongoDB using ID. In frontend we will add an delete button to the product card. When click on delete button we will send the product id to server endpoint.
+
+**Milestone 15**
+
+1. In this milestone, we will learn how to create and nav component.
+2. Then we will learn how to reuse the same component in multiple pages.
+
