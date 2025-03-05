@@ -125,3 +125,7 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 1. In this milestone, we will learn how to create and nav component.
 2. Then we will learn how to reuse the same component in multiple pages.
 
+**Milestone 16**
+
+1. We will learn how to new page to display each product.
+2. Then how to add quantity and add to cart button.
