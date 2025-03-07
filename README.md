@@ -126,3 +126,8 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 1. In this milestone, we will create a cart schema to store products.
 2. Then we will write an endpoint to store and recieve product details in the cart.
+
+**Milestone 18**
+
+1. We will firstly create a backend endpoint for cart page.
+2. Then we will write an endpoint to get products inside cart for user.
