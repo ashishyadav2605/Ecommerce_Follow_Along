@@ -129,3 +129,8 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 1. We will learn how to new page to display each product.
 2. Then how to add quantity and add to cart button.
+
+**Milestone 17**
+
+1. In this milestone, we will create a cart schema to store products.
+2. Then we will write an endpoint to store and recieve product details in the cart.
