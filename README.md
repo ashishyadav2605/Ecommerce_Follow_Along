@@ -139,3 +139,9 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 
 1. We will firstly create a backend endpoint for cart page.
 2. Then we will write an endpoint to get products inside cart for user.
+
+**Milestone 19**
+
+1. Display a list of products in the cart.
+2. Increase and decrease product quantity using + & - buttons.
+3. Backend API to update quanitty in real-time.
