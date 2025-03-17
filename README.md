@@ -145,3 +145,11 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 1. Display a list of products in the cart.
 2. Increase and decrease product quantity using + & - buttons.
 3. Backend API to update quanitty in real-time.
+
+**Milestone 20**
+
+1. Display profile photo, name and email in one section.
+2. Display address information in one section.
+3. If no address is found, show message for the same.
+4. Provide an "Add Address" for users to update their address.
+5. Backend API to send user data.
