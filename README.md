@@ -153,3 +153,8 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 3. Navigation from Profile Page.
 4. Submitting the address.
 5. Optional Enhancements.
+
+**Milestone 22**
+
+1. Create an endpoint that will receive the address from address form in frontend.
+2. Add the address to the address array inside user collection.
