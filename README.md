@@ -164,3 +164,10 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 1. First we will create an placeorder button inside cart page and navigate to select address page when clicked.
 2. Then we will create and select address page that will display all the available address and have an option to select one address.
 3. Write an backend endpoint that will send all the addresses of the User.
+
+**Milestone 24**     
+
+1. Displays all the products in the cart with details.
+2. Shows the selected delivery address for verification.
+3. Displays the total value of the cart.
+4. Includes a "Place Order" button for confirming the order.
