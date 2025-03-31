@@ -171,3 +171,11 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 2. Shows the selected delivery address for verification.
 3. Displays the total value of the cart.
 4. Includes a "Place Order" button for confirming the order.
+
+**Milestone 25**
+
+1. Create an API endpoint (POST /api/orders) to receive user email, address, and product details.
+2. Retrieve the user _id using their email.
+3. Create separate orders for each product with the same address.
+4. Store the orders in MongoDB using the Order schema.
+5. Ensure proper validation, error handling, and efficient database operations.
