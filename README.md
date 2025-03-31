@@ -179,3 +179,11 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 3. Create separate orders for each product with the same address.
 4. Store the orders in MongoDB using the Order schema.
 5. Ensure proper validation, error handling, and efficient database operations.
+
+**Milestone 26**
+
+1. Create an API endpoint (GET /api/orders/user) to receive the user email.
+2. Retrieve the user _id using their email.
+3. Fetch all orders associated with that _id from MongoDB.
+4. Send all user orders in the response.
+5. Ensure error handling and data security.
