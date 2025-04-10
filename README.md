@@ -204,3 +204,10 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 4. All orders are displayed with relevant details such as items, date, and status.
 5. Added "My Orders" link to the navbar for improved navigation and user experience.
 
+**Milestone 28**
+
+1. Added "Cancel Order" button for each order on the my-orders page, visible only for active (non-canceled) orders.
+2. Created a new API endpoint to cancel an order by receiving the order-id via a POST request.
+3. The endpoint fetches the order using the provided ID, updates the status to "canceled", and saves it.
+4. The UI conditionally hides the cancel button if the order status is already "canceled".
+5. Ensures secure and proper validation to avoid canceling non-existent or already canceled orders.
