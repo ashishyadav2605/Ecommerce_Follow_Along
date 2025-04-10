@@ -211,3 +211,11 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 3. The endpoint fetches the order using the provided ID, updates the status to "canceled", and saves it.
 4. The UI conditionally hides the cancel button if the order status is already "canceled".
 5. Ensures secure and proper validation to avoid canceling non-existent or already canceled orders.
+
+**Milestone 29**
+
+1. Created a PayPal developer account and accessed the sandbox environment.
+2. Generated sandbox test accounts and saved the UserID and Client ID for integration.
+3. On the order confirmation page, added radio buttons to choose between Cash on Delivery (COD) and Online Payment.
+4. When Online Payment is selected, the PayPal buttons section is displayed (functionality to be added in the next milestone).
+5. This setup prepares the frontend for PayPal integration while retaining the COD option for user flexibility.
