@@ -187,3 +187,12 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 3. Fetch all orders associated with that _id from MongoDB.
 4. Send all user orders in the response.
 5. Ensure error handling and data security.
+
+**Milestone 27**
+
+1. Created a new "My Orders" page to display all orders made by the logged-in user.
+2. Sends a GET request to the existing /my-orders endpoint to fetch order data.
+3. The user's email is passed to the endpoint to retrieve their specific order history.
+4. All orders are displayed with relevant details such as items, date, and status.
+5. Added "My Orders" link to the navbar for improved navigation and user experience.
+
