@@ -226,3 +226,11 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 2. It supports credit/debit cards and PayPal via the PayPalScriptProvider and PayPalButtons.  
 3. Replace `YOUR_SANDBOX_CLIENT_ID` with your PayPal sandbox client ID to start testing.
 
+**Milestone 31**
+
+1. Install an npm package called react-redux
+2. create an new folder called store with two files store.js and userActions.js.
+3. We will store user mail inside global state.
+4. In store.js file configure an store with userReducer function that will handle global user email state.
+5. Inside userActions.js file write an function called setEmail that will help in storing email state inside global state.
+6. In Index.js file make sure to wrap APP component inside provider component with store as props.
