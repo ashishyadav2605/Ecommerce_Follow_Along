@@ -211,3 +211,10 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 3. On the order confirmation page, added radio buttons to choose between Cash on Delivery (COD) and Online Payment.
 4. When Online Payment is selected, the PayPal buttons section is displayed (functionality to be added in the next milestone).
 5. This setup prepares the frontend for PayPal integration while retaining the COD option for user flexibility.
+
+**Milestone 30**
+
+1. This project integrates PayPal payments using the `@paypal/react-paypal-js` package.
+2. It supports credit/debit cards and PayPal via the PayPalScriptProvider and PayPalButtons.  
+3. Replace `YOUR_SANDBOX_CLIENT_ID` with your PayPal sandbox client ID to start testing.
+
