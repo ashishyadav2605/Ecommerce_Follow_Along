@@ -234,3 +234,9 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 4. In store.js file configure an store with userReducer function that will handle global user email state.
 5. Inside userActions.js file write an function called setEmail that will help in storing email state inside global state.
 6. In Index.js file make sure to wrap APP component inside provider component with store as props.
+
+**Milestone 32**
+
+1. Use `dispatch` in the Login page to store the user's email in the global state.  
+2. Access the stored email in other pages using `useSelector`.
+
