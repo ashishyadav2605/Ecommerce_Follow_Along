@@ -240,3 +240,8 @@ Set up a grid layout or flexbox for displaying multiple cards neatly.
 1. Use `dispatch` in the Login page to store the user's email in the global state.  
 2. Access the stored email in other pages using `useSelector`.
 
+**Milestone 33**
+
+1. Install `jsonwebtoken` and use `sign()` to create a JWT token with email and ID, setting `maxAge` for expiry.  
+2. Add the token as a cookie in the response to store it in the browser.
+
